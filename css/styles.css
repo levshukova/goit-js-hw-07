@@ -14,6 +14,7 @@ li {
 }
 
 .return-link {
-  display: inline-block;
+  display: block;
   margin-top: 30px;
+  font-size: 0.9em;
 }
